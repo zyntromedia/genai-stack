@@ -12,7 +12,7 @@ sse-starlette
 boto3
 streamlit==1.32.1
 # missing from the langchain base image?
-langchain-openai==0.3.8
+langchain-openai==1.1.14
 langchain-community==0.3.19
 langchain-google-genai==2.0.11
 langchain-ollama==0.2.3
