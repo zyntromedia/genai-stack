@@ -2,7 +2,7 @@ python-dotenv
 wikipedia
 tiktoken
 neo4j
-streamlit
+streamlit==1.54.0
 Pillow
 fastapi
 PyPDF2
@@ -10,7 +10,7 @@ pydantic
 uvicorn
 sse-starlette
 boto3
-streamlit==1.32.1
+streamlit==1.54.0==1.32.1
 # missing from the langchain base image?
 langchain-openai==0.3.8
 langchain-community==0.3.19
